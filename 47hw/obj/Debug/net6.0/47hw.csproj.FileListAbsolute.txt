@@ -1,0 +1,15 @@
+D:\GeekBrains\HW7Csharp\47hw\bin\Debug\net6.0\47hw.exe
+D:\GeekBrains\HW7Csharp\47hw\bin\Debug\net6.0\47hw.deps.json
+D:\GeekBrains\HW7Csharp\47hw\bin\Debug\net6.0\47hw.runtimeconfig.json
+D:\GeekBrains\HW7Csharp\47hw\bin\Debug\net6.0\47hw.dll
+D:\GeekBrains\HW7Csharp\47hw\bin\Debug\net6.0\47hw.pdb
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.AssemblyInfo.cs
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.dll
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\refint\47hw.dll
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.pdb
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\47hw.genruntimeconfig.cache
+D:\GeekBrains\HW7Csharp\47hw\obj\Debug\net6.0\ref\47hw.dll

@@ -1,0 +1,15 @@
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.csproj.AssemblyReference.cache
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.AssemblyInfoInputs.cache
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.AssemblyInfo.cs
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.csproj.CoreCompileInputs.cache
+D:\GeekBrains\HW7Csharp\50hw\bin\Debug\net6.0\50hw.exe
+D:\GeekBrains\HW7Csharp\50hw\bin\Debug\net6.0\50hw.deps.json
+D:\GeekBrains\HW7Csharp\50hw\bin\Debug\net6.0\50hw.runtimeconfig.json
+D:\GeekBrains\HW7Csharp\50hw\bin\Debug\net6.0\50hw.dll
+D:\GeekBrains\HW7Csharp\50hw\bin\Debug\net6.0\50hw.pdb
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.dll
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\refint\50hw.dll
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.pdb
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\50hw.genruntimeconfig.cache
+D:\GeekBrains\HW7Csharp\50hw\obj\Debug\net6.0\ref\50hw.dll
