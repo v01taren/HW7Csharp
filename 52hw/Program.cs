@@ -12,10 +12,10 @@ var rows = int.Parse(Console.ReadLine());
 Console.Write("Введите количество столбцов массива: ");
 int columns = int.Parse(Console.ReadLine());
 
-int[,] array = GetArrayMatrix(rows, columns, 0, 50);
+int[,] array = GetArrayMatrix(rows, columns, 0, 10);
 PrintArray(array);
 
-int[,] GetArrayMatrix(int rows, int columns, int minValue = 0, int maxValue = 50)
+int[,] GetArrayMatrix(int rows, int columns, int minValue = 0, int maxValue = 10)
 {
     int[,] result = new int[rows, columns];
     for (int i = 0; i < rows; i++)
@@ -51,6 +51,6 @@ void SummColumns(int[,] array)
         {
            Summ+=array[i, j];
         }
-        Console.WriteLine(Summ);
+        Console.WriteLine($"Среднее арифметическое столбца {Summ / columns}");
     }
 }
